@@ -1,3 +1,13 @@
 # 服务器配置
 server:
   port: 8091
+
+# AWS 配置
+aws:
+  region: us-east-1
+
+# AppConfig 配置
+appconfig:
+  application-id: d2nlmip
+  environment: dev
+  configuration-profile: application-config
