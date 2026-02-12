@@ -10,7 +10,7 @@ RUN mkdir -p /dpsm-auth
 
 WORKDIR /dpsm-auth
 
-EXPOSE 8080
+EXPOSE 8081
 
 ADD ./target/dpsm-auth.jar ./
 
