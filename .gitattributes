@@ -1,0 +1,3 @@
+* text=auto eol=lf linguist-language=Java
+# 强制指定 .gitignore 文件使用 LF 换行符
+*.gitignore text eol=lf
