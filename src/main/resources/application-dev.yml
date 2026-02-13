@@ -8,6 +8,6 @@ aws:
 
 # AppConfig 配置
 appconfig:
-  application-id: d2nlmip
+  application-id: hxpeujk
   environment: dev
   configuration-profile: application-config
